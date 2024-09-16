@@ -1,23 +1,35 @@
 criaCartao(
-    'Parana',
-    'Qual a 16 cidade mais pobre do Parana?',
-    'Pinhal de São Bento.'
+    'Geografia',
+    'Qual é o maior oceano do mundo?',
+    'Oceano Pacífico'
 )
 
 criaCartao(
-    'Brasil',
-    'Qual o 2 Estado com a maior educação do Brasil?',
-    'Parana.'
+    'História',
+    'Quem foi o primeiro presidente do Brasil?',
+    'Marechal Deodoro da Fonseca'
 )
 
 criaCartao(
-    'Terra',
-    'Qual pais com maior indice de roubos no mundo?',
-    'Brasil.'
+    'Ciência',
+    'Qual é o elemento químico com o símbolo Au?',
+    'Ouro'
 )
 
 criaCartao(
-    'Via Láctea',
-    'O planeta mais poluido da Via Láctea?',
-    'Terra'
+    'Literatura',
+    'Quem escreveu "Dom Quixote"?',
+    'Miguel de Cervantes'
+)
+
+criaCartao(
+    'Matemática',
+    'Qual é o valor de π (pi) até a segunda casa decimal?',
+    '3,14'
+)
+
+criaCartao(
+    'Arte',
+    'Qual é o nome do famoso pintor que criou "A Última Ceia" e "Mona Lisa"?',
+    'Leonardo da Vinci'
 )
