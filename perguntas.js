@@ -1,35 +1,71 @@
 criaCartao(
     'Geografia',
-    'Qual é o maior oceano do mundo?',
-    'Oceano Pacífico'
+    'Qual é a capital da França?',
+    'Paris'
+)
+
+criaCartao(
+    'Geografia',
+    'Qual país tem a maior área terrestre do mundo?',
+    'Rússia'
 )
 
 criaCartao(
     'História',
-    'Quem foi o primeiro presidente do Brasil?',
-    'Marechal Deodoro da Fonseca'
+    'Em que ano terminou a Segunda Guerra Mundial?',
+    '1945'
+)
+
+criaCartao(
+    'História',
+    'Quem foi a rainha que governou a Inglaterra durante a Era Tudor?',
+    'Rainha Elizabeth I'
 )
 
 criaCartao(
     'Ciência',
-    'Qual é o elemento químico com o símbolo Au?',
-    'Ouro'
+    'Qual é a fórmula química da água?',
+    'H₂O'
+)
+
+criaCartao(
+    'Ciência',
+    'Quem propôs a teoria da relatividade?',
+    'Albert Einstein'
 )
 
 criaCartao(
     'Literatura',
-    'Quem escreveu "Dom Quixote"?',
-    'Miguel de Cervantes'
+    'Qual é o autor de "Orgulho e Preconceito"?',
+    'Jane Austen'
+)
+
+criaCartao(
+    'Literatura',
+    'Em que ano foi publicado "O Pequeno Príncipe"?',
+    '1943'
 )
 
 criaCartao(
     'Matemática',
-    'Qual é o valor de π (pi) até a segunda casa decimal?',
-    '3,14'
+    'Qual é a soma dos ângulos internos de um triângulo?',
+    '180 graus'
+)
+
+criaCartao(
+    'Matemática',
+    'O que é um número primo?',
+    'Um número que só é divisível por 1 e por ele mesmo'
 )
 
 criaCartao(
     'Arte',
-    'Qual é o nome do famoso pintor que criou "A Última Ceia" e "Mona Lisa"?',
-    'Leonardo da Vinci'
+    'Quem pintou "O Grito"?',
+    'Edvard Munch'
+)
+
+criaCartao(
+    'Arte',
+    'Qual artista é conhecido por suas obras no estilo surrealista?',
+    'Salvador Dalí'
 )
